@@ -2,7 +2,7 @@
 
 Tic Tac Toe or Three in a Row in GNU-Prolog, none, one, or both players can be robots. 
 
-Just learned PROLOG and wrote this little program as a learning project. Feel free to enhance the code. 
+Just learned PROLOG and wrote this little program as a learning project. Feel free to comment and enhance the code. 
 
 # Gameplay
 
