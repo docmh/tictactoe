@@ -11,6 +11,6 @@ Start the game with `go(Robots).`, where `Robots` is a list. First player has sy
 - `go([]).` when both players should be human users.
 - `go(['X']).` when first player should be a robot.
 - `go(['O']).` when second player should be a robot.
-- `go(['X', 'O'].` when both players should be robots.
+- `go(['X', 'O']).` when both players should be robots.
 
 If you are a human player and have to make a move, just enter the number of a free field from the board, displayed to you. 
